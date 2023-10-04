@@ -1,0 +1,11 @@
+body {
+    align-items: center;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+}
+
+canvas {
+    background-color: #6bf;
+    width: 70%;
+}
